@@ -1,0 +1,5 @@
+{
+  "name": "LifePlanner",
+  "description": "A comprehensive mobile-first daily planner featuring a to-do list, class schedule, synchronized calendar, and special event tracking with menstruation cycles.",
+  "requestFramePermissions": []
+}
